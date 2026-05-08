@@ -59,8 +59,14 @@ KVM running on the same Ubuntu Server machine as the NAS, managed through Cockpi
 
 I built this lab to learn Linux systems administration, AI infrastructure, and eventually software development — all in a real environment I control. I am a bilingual (English/Spanish) AV and IT production professional with 13 years of experience in live events and broadcast. This lab is where I bridge that production background with deeper systems knowledge.
 
-## Related content
-https://www.youtube.com/live/1VmxnDgfIWE?si=XE2zNuBRSdp1DgtQ
+## Build session recording
+
+Full build session recorded live (no audio) — covers persistent UUID mounting, 
+XFS formatting, Samba configuration, SELinux hardening, and Cockpit setup on 
+Ubuntu Server.
+
+Watch on YouTube:
+https://www.youtube.com/watch?v=1VmxnDgfIWE
 
 ## In Progress
 
