@@ -72,6 +72,6 @@ no paid subscriptions.
 
 ## In Progress
 
-Learning Python as foundation for software development
-Exploring 2D game development (Godot / Python)
-CompTIA Linux+ certification — planned
+- Learning Python as foundation for software development
+- Exploring 2D game development (Godot)
+- CompTIA Linux+ certification — planned
