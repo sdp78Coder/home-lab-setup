@@ -61,12 +61,14 @@ I built this lab to learn Linux systems administration, AI infrastructure, and e
 
 ## Build session recording
 
-Full build session recorded live (no audio) — covers persistent UUID mounting, 
-XFS formatting, Samba configuration, SELinux hardening, and Cockpit setup on 
-Ubuntu Server.
+Full build session recorded live — covers persistent UUID-based mounting, XFS formatting, 
+Samba configuration for cross-platform access (Windows, macOS, Linux), SELinux hardening, 
+firewalld rules, and Cockpit web dashboard setup on Ubuntu Server.
 
-Watch on YouTube:
-https://www.youtube.com/watch?v=1VmxnDgfIWE
+Built and documented using a local LLM (llama.cpp) as the primary reference — no cloud AI, 
+no paid subscriptions.
+
+▶ [Watch the full session on YouTube](https://www.youtube.com/watch?v=1VmxnDgfIWE)
 
 ## In Progress
 
